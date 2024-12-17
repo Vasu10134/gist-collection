@@ -12,5 +12,5 @@ This repository contains a collection of useful code snippets and functions that
 [Disable-button-timer](https://gist.github.com/Vasu10134/9f4f0de93d64f93a2e1ba1c520df702d)  
 
 **[SpringBoot]**  
-[Hello-world-application](https://gist.github.com/Vasu10134/6cbfe9a6afd58ace2f1affb781550bce)
-  
+[Hello-world-application](https://gist.github.com/Vasu10134/6cbfe9a6afd58ace2f1affb781550bce)  
+[Custom-exception-handler](https://gist.github.com/Vasu10134/494859d4899e8a22bbcd7edd94abf2cc)  
