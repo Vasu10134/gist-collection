@@ -1,5 +1,5 @@
 # gist-collection
-This repository contains a collection of useful code snippets shared as Gists. 🚀  
+This repository contains collection of useful code snippets shared as Gists. 🚀  
 I work with languages like **SQL**, **Java**, **JavaScript**, **Spring Boot**, and more! 🌐  
 Explore these small, reusable snippets for quick programming tasks. 💡
 ---
